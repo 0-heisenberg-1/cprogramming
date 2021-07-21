@@ -16,7 +16,7 @@ float power(float x, float n)
 }
 float fact(float x)
 {
-    if (x <= 1)
+    if (x == 1)
     {
         return 1;
     }
