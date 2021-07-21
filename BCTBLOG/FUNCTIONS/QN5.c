@@ -6,7 +6,7 @@ int hcf_lcm(int *h, int *l)
     int a;
     for (int i = 1; i < a; i++)
     {
-    }
+        }
 }
 int main()
 {
